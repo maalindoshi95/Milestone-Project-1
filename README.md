@@ -11,3 +11,12 @@
   - if character reaches 100th space, game is over and they win.
  
 **Deliverables**
+  MVP:
+    - one player has to roll one dice to see if they can reach the 100th space
+    - ladder moves them up
+    - snake moves them down
+    
+ Post-MVP Plans:
+    - add a second player
+    - add a second dice
+    - the player has to roll a double to start the game
